@@ -12,6 +12,7 @@
 
 	<name>Explore With Me</name>
 	<modules>
+		<module>evm-stats</module>
 		<module>evm-service</module>
 		<module>stats-service</module>
 	</modules>
