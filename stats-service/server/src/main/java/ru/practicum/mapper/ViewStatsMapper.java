@@ -1,7 +1,7 @@
 package ru.practicum.mapper;
 
 import lombok.experimental.UtilityClass;
-import ru.practicum.ViewStatsDto;
+import ru.practicum.dto.ViewStatsDto;
 import ru.practicum.model.ViewStats;
 
 import java.util.List;
